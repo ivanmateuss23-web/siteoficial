@@ -1,0 +1,5 @@
+{
+  "name": "site oficial bacterias ",
+  "description": "An interactive clinical case generator for Upper Respiratory Tract Infections using Gemini AI, focusing on S. pyogenes, S. pneumoniae, H. influenzae, and M. catarrhalis based on medical literature.",
+  "requestFramePermissions": []
+}
